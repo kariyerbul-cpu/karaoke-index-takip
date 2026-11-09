@@ -18,6 +18,8 @@ from google.auth.transport.requests import AuthorizedSession
 
 SITE_URL = os.environ.get("GSC_SITE_URL", "https://karaokemuzik.blogspot.com/")
 SITE_URL = SITE_URL.rstrip("/") + "/"
+# Search Console alan adi mulku kimligi (Blogger adresinden farklidir).
+GSC_PROPERTY = os.environ.get("GSC_PROPERTY", "sc-domain:karaokemuzik.blogspot.com")
 MAX_POSTS = max(1, min(200, int(os.environ.get("GSC_MAX_POSTS", "80"))))
 OUTPUT = Path(os.environ.get("GSC_OUTPUT", "index-status.json"))
 SCOPE = "https://www.googleapis.com/auth/webmasters.readonly"
@@ -126,7 +128,7 @@ def get_session():
 
 
 def index_status(sess, url):
-    body = {"inspectionUrl": url, "siteUrl": SITE_URL, "languageCode": "tr-TR"}
+    body = {"inspectionUrl": url, "siteUrl": GSC_PROPERTY, "languageCode": "tr-TR"}
     r = sess.post(ENDPOINT, json=body, timeout=TIMEOUT)
     if r.status_code in (401, 403, 429):
         raise RuntimeError(f"Google API failed with {r.status_code}: {r.text[:350]}")
