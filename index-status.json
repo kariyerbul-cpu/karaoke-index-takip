@@ -1,33 +1,47 @@
 {
   "site": "https://karaokemuzik.blogspot.com/",
-  "updatedAt": "2026-11-10T12:01:05Z",
+  "updatedAt": "2026-11-10T15:16:59Z",
   "checkedCount": 80,
   "items": {
-    "/2026/11/ecrin-su-coban-yalvaryo-karaoke_4.html": {
+    "/2026/11/mela-bedel-iki-tas-corba-karaoke_8.html": {
       "status": "no",
       "verdict": "NEUTRAL",
       "coverage": "Keşfedildi - şu anda dizine eklenmiş değil",
       "googleCanonical": "",
       "lastCrawlTime": ""
+    },
+    "/2026/11/serkan-nisanc-unutacagm-karaoke_4.html": {
+      "status": "no",
+      "verdict": "NEUTRAL",
+      "coverage": "Keşfedildi - şu anda dizine eklenmiş değil",
+      "googleCanonical": "",
+      "lastCrawlTime": ""
+    },
+    "/2026/11/ecrin-su-coban-yalvaryo-karaoke_4.html": {
+      "status": "no",
+      "verdict": "NEUTRAL",
+      "coverage": "Tarandı - şu anda dizine eklenmiş değil",
+      "googleCanonical": "https://karaokemuzik.blogspot.com/2026/11/ecrin-su-coban-yalvaryo-karaoke_4.html",
+      "lastCrawlTime": "2026-11-10T15:12:59Z"
     },
     "/2026/11/poizi-basmda-belalar-karaoke.html": {
       "status": "no",
       "verdict": "NEUTRAL",
-      "coverage": "Keşfedildi - şu anda dizine eklenmiş değil",
-      "googleCanonical": "",
-      "lastCrawlTime": ""
+      "coverage": "Tarandı - şu anda dizine eklenmiş değil",
+      "googleCanonical": "https://karaokemuzik.blogspot.com/2026/11/poizi-basmda-belalar-karaoke.html",
+      "lastCrawlTime": "2026-11-10T12:40:50Z"
     },
     "/2026/11/model-olurum-daha-iyi-karaoke_3.html": {
-      "status": "no",
-      "verdict": "NEUTRAL",
-      "coverage": "Keşfedildi - şu anda dizine eklenmiş değil",
-      "googleCanonical": "",
-      "lastCrawlTime": ""
+      "status": "yes",
+      "verdict": "PASS",
+      "coverage": "Gönderildi ve dizine eklendi",
+      "googleCanonical": "https://karaokemuzik.blogspot.com/2026/11/model-olurum-daha-iyi-karaoke_3.html",
+      "lastCrawlTime": "2026-11-10T12:20:24Z"
     },
     "/2026/11/karm6-serdar-ortac-ta-burama-karaoke_7.html": {
       "status": "no",
       "verdict": "NEUTRAL",
-      "coverage": "Keşfedildi - şu anda dizine eklenmiş değil",
+      "coverage": "URL Google tarafından bilinmiyor",
       "googleCanonical": "",
       "lastCrawlTime": ""
     },
@@ -41,14 +55,14 @@
     "/2026/11/tuana-bu-dunya-yklsa-uzulmem-karaoke_9.html": {
       "status": "no",
       "verdict": "NEUTRAL",
-      "coverage": "URL Google tarafından bilinmiyor",
+      "coverage": "Keşfedildi - şu anda dizine eklenmiş değil",
       "googleCanonical": "",
       "lastCrawlTime": ""
     },
     "/2026/11/sibel-can-kanasn-karaoke.html": {
       "status": "no",
       "verdict": "NEUTRAL",
-      "coverage": "URL Google tarafından bilinmiyor",
+      "coverage": "Keşfedildi - şu anda dizine eklenmiş değil",
       "googleCanonical": "",
       "lastCrawlTime": ""
     },
@@ -237,7 +251,7 @@
     "/2026/11/cinlerin-dugunu-filmi-6-kasmda-vizyona.html": {
       "status": "no",
       "verdict": "NEUTRAL",
-      "coverage": "Keşfedildi - şu anda dizine eklenmiş değil",
+      "coverage": "URL Google tarafından bilinmiyor",
       "googleCanonical": "",
       "lastCrawlTime": ""
     },
@@ -548,20 +562,6 @@
       "coverage": "Gönderildi ve dizine eklendi",
       "googleCanonical": "https://karaokemuzik.blogspot.com/2026/11/vedat-muriqinin-golu-liverpool-macnn.html",
       "lastCrawlTime": "2026-11-09T21:09:12Z"
-    },
-    "/2026/11/nasann-swift-gozlemevi-dunyaya-dusus.html": {
-      "status": "yes",
-      "verdict": "PASS",
-      "coverage": "Gönderildi ve dizine eklendi",
-      "googleCanonical": "https://karaokemuzik.blogspot.com/2026/11/nasann-swift-gozlemevi-dunyaya-dusus.html",
-      "lastCrawlTime": "2026-11-09T20:40:33Z"
-    },
-    "/2026/11/turkiyenin-komsu-ulkelere-ihracat-234.html": {
-      "status": "no",
-      "verdict": "NEUTRAL",
-      "coverage": "Keşfedildi - şu anda dizine eklenmiş değil",
-      "googleCanonical": "",
-      "lastCrawlTime": ""
     }
   }
 }
