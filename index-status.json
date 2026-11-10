@@ -1,14 +1,42 @@
 {
   "site": "https://karaokemuzik.blogspot.com/",
-  "updatedAt": "2026-11-10T08:25:19Z",
+  "updatedAt": "2026-11-10T12:01:05Z",
   "checkedCount": 80,
   "items": {
-    "/2026/11/allame-x-sagopa-kajmer-bir-sansm-daha.html": {
+    "/2026/11/ecrin-su-coban-yalvaryo-karaoke_4.html": {
       "status": "no",
       "verdict": "NEUTRAL",
       "coverage": "Keşfedildi - şu anda dizine eklenmiş değil",
       "googleCanonical": "",
       "lastCrawlTime": ""
+    },
+    "/2026/11/poizi-basmda-belalar-karaoke.html": {
+      "status": "no",
+      "verdict": "NEUTRAL",
+      "coverage": "Keşfedildi - şu anda dizine eklenmiş değil",
+      "googleCanonical": "",
+      "lastCrawlTime": ""
+    },
+    "/2026/11/model-olurum-daha-iyi-karaoke_3.html": {
+      "status": "no",
+      "verdict": "NEUTRAL",
+      "coverage": "Keşfedildi - şu anda dizine eklenmiş değil",
+      "googleCanonical": "",
+      "lastCrawlTime": ""
+    },
+    "/2026/11/karm6-serdar-ortac-ta-burama-karaoke_7.html": {
+      "status": "no",
+      "verdict": "NEUTRAL",
+      "coverage": "Keşfedildi - şu anda dizine eklenmiş değil",
+      "googleCanonical": "",
+      "lastCrawlTime": ""
+    },
+    "/2026/11/allame-x-sagopa-kajmer-bir-sansm-daha.html": {
+      "status": "no",
+      "verdict": "NEUTRAL",
+      "coverage": "Tarandı - şu anda dizine eklenmiş değil",
+      "googleCanonical": "https://karaokemuzik.blogspot.com/2026/11/allame-x-sagopa-kajmer-bir-sansm-daha.html",
+      "lastCrawlTime": "2026-11-10T10:32:20Z"
     },
     "/2026/11/tuana-bu-dunya-yklsa-uzulmem-karaoke_9.html": {
       "status": "no",
@@ -20,23 +48,23 @@
     "/2026/11/sibel-can-kanasn-karaoke.html": {
       "status": "no",
       "verdict": "NEUTRAL",
-      "coverage": "Keşfedildi - şu anda dizine eklenmiş değil",
+      "coverage": "URL Google tarafından bilinmiyor",
       "googleCanonical": "",
       "lastCrawlTime": ""
     },
     "/2026/11/sibel-can-kanasin-karaoke.html": {
       "status": "no",
       "verdict": "NEUTRAL",
-      "coverage": "URL Google tarafından bilinmiyor",
+      "coverage": "Keşfedildi - şu anda dizine eklenmiş değil",
       "googleCanonical": "",
       "lastCrawlTime": ""
     },
     "/2026/11/karm6-iki-yuzlu-karaoke_2.html": {
       "status": "no",
       "verdict": "NEUTRAL",
-      "coverage": "Keşfedildi - şu anda dizine eklenmiş değil",
-      "googleCanonical": "",
-      "lastCrawlTime": ""
+      "coverage": "Tarandı - şu anda dizine eklenmiş değil",
+      "googleCanonical": "https://karaokemuzik.blogspot.com/2026/11/karm6-iki-yuzlu-karaoke_2.html",
+      "lastCrawlTime": "2026-11-10T08:36:59Z"
     },
     "/2027/02/murat-kekilli-gel-opem-seni-karaoke.html": {
       "status": "no",
@@ -531,37 +559,9 @@
     "/2026/11/turkiyenin-komsu-ulkelere-ihracat-234.html": {
       "status": "no",
       "verdict": "NEUTRAL",
-      "coverage": "URL Google tarafından bilinmiyor",
-      "googleCanonical": "",
-      "lastCrawlTime": ""
-    },
-    "/2026/11/yemen-taizde-insani-kriz-derinlesiyor.html": {
-      "status": "no",
-      "verdict": "NEUTRAL",
       "coverage": "Keşfedildi - şu anda dizine eklenmiş değil",
       "googleCanonical": "",
       "lastCrawlTime": ""
-    },
-    "/2026/11/gaziantepli-ogrenciler-250-metreye.html": {
-      "status": "no",
-      "verdict": "NEUTRAL",
-      "coverage": "URL Google tarafından bilinmiyor",
-      "googleCanonical": "",
-      "lastCrawlTime": ""
-    },
-    "/2026/11/turk-futbolunda-5-sezonluk-yayn-ihalesi.html": {
-      "status": "yes",
-      "verdict": "PASS",
-      "coverage": "Gönderildi ve dizine eklendi",
-      "googleCanonical": "https://karaokemuzik.blogspot.com/2026/11/turk-futbolunda-5-sezonluk-yayn-ihalesi.html",
-      "lastCrawlTime": "2026-11-09T21:49:30Z"
-    },
-    "/2026/11/bist-100-endeksi-5-kasma-yukselisle.html": {
-      "status": "yes",
-      "verdict": "PASS",
-      "coverage": "Gönderildi ve dizine eklendi",
-      "googleCanonical": "https://karaokemuzik.blogspot.com/2026/11/bist-100-endeksi-5-kasma-yukselisle.html",
-      "lastCrawlTime": "2026-11-09T21:04:00Z"
     }
   }
 }
