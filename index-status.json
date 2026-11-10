@@ -1,12 +1,19 @@
 {
   "site": "https://karaokemuzik.blogspot.com/",
-  "updatedAt": "2026-11-10T07:06:32Z",
+  "updatedAt": "2026-11-10T08:25:19Z",
   "checkedCount": 80,
   "items": {
-    "/2026/11/tuana-bu-dunya-yklsa-uzulmem-karaoke_9.html": {
+    "/2026/11/allame-x-sagopa-kajmer-bir-sansm-daha.html": {
       "status": "no",
       "verdict": "NEUTRAL",
       "coverage": "Keşfedildi - şu anda dizine eklenmiş değil",
+      "googleCanonical": "",
+      "lastCrawlTime": ""
+    },
+    "/2026/11/tuana-bu-dunya-yklsa-uzulmem-karaoke_9.html": {
+      "status": "no",
+      "verdict": "NEUTRAL",
+      "coverage": "URL Google tarafından bilinmiyor",
       "googleCanonical": "",
       "lastCrawlTime": ""
     },
@@ -20,14 +27,14 @@
     "/2026/11/sibel-can-kanasin-karaoke.html": {
       "status": "no",
       "verdict": "NEUTRAL",
-      "coverage": "Keşfedildi - şu anda dizine eklenmiş değil",
+      "coverage": "URL Google tarafından bilinmiyor",
       "googleCanonical": "",
       "lastCrawlTime": ""
     },
     "/2026/11/karm6-iki-yuzlu-karaoke_2.html": {
       "status": "no",
       "verdict": "NEUTRAL",
-      "coverage": "URL Google tarafından bilinmiyor",
+      "coverage": "Keşfedildi - şu anda dizine eklenmiş değil",
       "googleCanonical": "",
       "lastCrawlTime": ""
     },
@@ -209,7 +216,7 @@
     "/2026/11/sevdan-bir-ates-dizisinde-leyladan.html": {
       "status": "no",
       "verdict": "NEUTRAL",
-      "coverage": "URL Google tarafından bilinmiyor",
+      "coverage": "Keşfedildi - şu anda dizine eklenmiş değil",
       "googleCanonical": "",
       "lastCrawlTime": ""
     },
@@ -524,14 +531,14 @@
     "/2026/11/turkiyenin-komsu-ulkelere-ihracat-234.html": {
       "status": "no",
       "verdict": "NEUTRAL",
-      "coverage": "Keşfedildi - şu anda dizine eklenmiş değil",
+      "coverage": "URL Google tarafından bilinmiyor",
       "googleCanonical": "",
       "lastCrawlTime": ""
     },
     "/2026/11/yemen-taizde-insani-kriz-derinlesiyor.html": {
       "status": "no",
       "verdict": "NEUTRAL",
-      "coverage": "URL Google tarafından bilinmiyor",
+      "coverage": "Keşfedildi - şu anda dizine eklenmiş değil",
       "googleCanonical": "",
       "lastCrawlTime": ""
     },
@@ -555,13 +562,6 @@
       "coverage": "Gönderildi ve dizine eklendi",
       "googleCanonical": "https://karaokemuzik.blogspot.com/2026/11/bist-100-endeksi-5-kasma-yukselisle.html",
       "lastCrawlTime": "2026-11-09T21:04:00Z"
-    },
-    "/2026/11/gumruk-islemlerinde-blokzincir-ve-ocr.html": {
-      "status": "yes",
-      "verdict": "PASS",
-      "coverage": "Gönderildi ve dizine eklendi",
-      "googleCanonical": "https://karaokemuzik.blogspot.com/2026/11/gumruk-islemlerinde-blokzincir-ve-ocr.html",
-      "lastCrawlTime": "2026-11-09T20:17:17Z"
     }
   }
 }
