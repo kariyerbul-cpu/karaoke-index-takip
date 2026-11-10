@@ -1,12 +1,40 @@
 {
   "site": "https://karaokemuzik.blogspot.com/",
-  "updatedAt": "2026-11-09T22:30:13Z",
+  "updatedAt": "2026-11-10T07:06:32Z",
   "checkedCount": 80,
   "items": {
-    "/2027/02/murat-kekilli-gel-opem-seni-karaoke.html": {
+    "/2026/11/tuana-bu-dunya-yklsa-uzulmem-karaoke_9.html": {
       "status": "no",
       "verdict": "NEUTRAL",
       "coverage": "Keşfedildi - şu anda dizine eklenmiş değil",
+      "googleCanonical": "",
+      "lastCrawlTime": ""
+    },
+    "/2026/11/sibel-can-kanasn-karaoke.html": {
+      "status": "no",
+      "verdict": "NEUTRAL",
+      "coverage": "Keşfedildi - şu anda dizine eklenmiş değil",
+      "googleCanonical": "",
+      "lastCrawlTime": ""
+    },
+    "/2026/11/sibel-can-kanasin-karaoke.html": {
+      "status": "no",
+      "verdict": "NEUTRAL",
+      "coverage": "Keşfedildi - şu anda dizine eklenmiş değil",
+      "googleCanonical": "",
+      "lastCrawlTime": ""
+    },
+    "/2026/11/karm6-iki-yuzlu-karaoke_2.html": {
+      "status": "no",
+      "verdict": "NEUTRAL",
+      "coverage": "URL Google tarafından bilinmiyor",
+      "googleCanonical": "",
+      "lastCrawlTime": ""
+    },
+    "/2027/02/murat-kekilli-gel-opem-seni-karaoke.html": {
+      "status": "no",
+      "verdict": "NEUTRAL",
+      "coverage": "URL Google tarafından bilinmiyor",
       "googleCanonical": "",
       "lastCrawlTime": ""
     },
@@ -181,7 +209,7 @@
     "/2026/11/sevdan-bir-ates-dizisinde-leyladan.html": {
       "status": "no",
       "verdict": "NEUTRAL",
-      "coverage": "Keşfedildi - şu anda dizine eklenmiş değil",
+      "coverage": "URL Google tarafından bilinmiyor",
       "googleCanonical": "",
       "lastCrawlTime": ""
     },
@@ -503,7 +531,7 @@
     "/2026/11/yemen-taizde-insani-kriz-derinlesiyor.html": {
       "status": "no",
       "verdict": "NEUTRAL",
-      "coverage": "Keşfedildi - şu anda dizine eklenmiş değil",
+      "coverage": "URL Google tarafından bilinmiyor",
       "googleCanonical": "",
       "lastCrawlTime": ""
     },
@@ -534,34 +562,6 @@
       "coverage": "Gönderildi ve dizine eklendi",
       "googleCanonical": "https://karaokemuzik.blogspot.com/2026/11/gumruk-islemlerinde-blokzincir-ve-ocr.html",
       "lastCrawlTime": "2026-11-09T20:17:17Z"
-    },
-    "/2026/11/yeka-ges-2026-yarsmalarnda-2-bin-285.html": {
-      "status": "yes",
-      "verdict": "PASS",
-      "coverage": "Gönderildi ve dizine eklendi",
-      "googleCanonical": "https://karaokemuzik.blogspot.com/2026/11/yeka-ges-2026-yarsmalarnda-2-bin-285.html",
-      "lastCrawlTime": "2026-11-09T22:18:28Z"
-    },
-    "/2026/11/milli-enerji-2040-hedefi-yenilenebilir.html": {
-      "status": "yes",
-      "verdict": "PASS",
-      "coverage": "Gönderildi ve dizine eklendi",
-      "googleCanonical": "https://karaokemuzik.blogspot.com/2026/11/milli-enerji-2040-hedefi-yenilenebilir.html",
-      "lastCrawlTime": "2026-11-09T20:49:15Z"
-    },
-    "/2026/11/psg-villarreal-karssnda-6-0-kazand.html": {
-      "status": "yes",
-      "verdict": "PASS",
-      "coverage": "Gönderildi ve dizine eklendi",
-      "googleCanonical": "https://karaokemuzik.blogspot.com/2026/11/psg-villarreal-karssnda-6-0-kazand.html",
-      "lastCrawlTime": "2026-11-09T19:58:13Z"
-    },
-    "/2026/11/cumhurbaskan-erdogan-guney-kore.html": {
-      "status": "yes",
-      "verdict": "PASS",
-      "coverage": "Gönderildi ve dizine eklendi",
-      "googleCanonical": "https://karaokemuzik.blogspot.com/2026/11/cumhurbaskan-erdogan-guney-kore.html",
-      "lastCrawlTime": "2026-11-09T19:58:53Z"
     }
   }
 }
