@@ -1,6 +1,6 @@
 {
   "site": "https://karaokemuzik.blogspot.com/",
-  "updatedAt": "2026-11-10T19:30:34Z",
+  "updatedAt": "2026-11-11T04:03:37Z",
   "checkedCount": 80,
   "items": {
     "/2026/11/mela-bedel-iki-tas-corba-karaoke_8.html": {
@@ -36,12 +36,12 @@
       "verdict": "PASS",
       "coverage": "Gönderildi ve dizine eklendi",
       "googleCanonical": "https://karaokemuzik.blogspot.com/2026/11/model-olurum-daha-iyi-karaoke_3.html",
-      "lastCrawlTime": "2026-11-10T12:20:24Z"
+      "lastCrawlTime": "2026-11-11T02:50:19Z"
     },
     "/2026/11/karm6-serdar-ortac-ta-burama-karaoke_7.html": {
       "status": "no",
       "verdict": "NEUTRAL",
-      "coverage": "URL Google tarafından bilinmiyor",
+      "coverage": "Keşfedildi - şu anda dizine eklenmiş değil",
       "googleCanonical": "",
       "lastCrawlTime": ""
     },
@@ -56,13 +56,6 @@
       "status": "no",
       "verdict": "NEUTRAL",
       "coverage": "Keşfedildi - şu anda dizine eklenmiş değil",
-      "googleCanonical": "",
-      "lastCrawlTime": ""
-    },
-    "/2026/11/sibel-can-kanasn-karaoke.html": {
-      "status": "no",
-      "verdict": "NEUTRAL",
-      "coverage": "URL Google tarafından bilinmiyor",
       "googleCanonical": "",
       "lastCrawlTime": ""
     },
@@ -83,7 +76,7 @@
     "/2027/02/murat-kekilli-gel-opem-seni-karaoke.html": {
       "status": "no",
       "verdict": "NEUTRAL",
-      "coverage": "URL Google tarafından bilinmiyor",
+      "coverage": "Keşfedildi - şu anda dizine eklenmiş değil",
       "googleCanonical": "",
       "lastCrawlTime": ""
     },
@@ -258,7 +251,7 @@
     "/2026/11/sevdan-bir-ates-dizisinde-leyladan.html": {
       "status": "no",
       "verdict": "NEUTRAL",
-      "coverage": "Keşfedildi - şu anda dizine eklenmiş değil",
+      "coverage": "URL Google tarafından bilinmiyor",
       "googleCanonical": "",
       "lastCrawlTime": ""
     },
@@ -562,6 +555,13 @@
       "coverage": "Gönderildi ve dizine eklendi",
       "googleCanonical": "https://karaokemuzik.blogspot.com/2026/11/vedat-muriqinin-golu-liverpool-macnn.html",
       "lastCrawlTime": "2026-11-09T21:09:12Z"
+    },
+    "/2026/11/nasann-swift-gozlemevi-dunyaya-dusus.html": {
+      "status": "yes",
+      "verdict": "PASS",
+      "coverage": "Gönderildi ve dizine eklendi",
+      "googleCanonical": "https://karaokemuzik.blogspot.com/2026/11/nasann-swift-gozlemevi-dunyaya-dusus.html",
+      "lastCrawlTime": "2026-11-09T20:40:33Z"
     }
   }
 }
