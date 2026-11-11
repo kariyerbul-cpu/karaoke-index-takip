@@ -1,8 +1,22 @@
 {
   "site": "https://karaokemuzik.blogspot.com/",
-  "updatedAt": "2026-11-11T08:24:18Z",
+  "updatedAt": "2026-11-11T10:24:16Z",
   "checkedCount": 80,
   "items": {
+    "/2026/11/ajda-pekkan-bambaska-biri-karaoke_4.html": {
+      "status": "no",
+      "verdict": "NEUTRAL",
+      "coverage": "URL Google tarafından bilinmiyor",
+      "googleCanonical": "",
+      "lastCrawlTime": ""
+    },
+    "/2026/11/sezen-aksu-biliyorsun-karaoke_4.html": {
+      "status": "no",
+      "verdict": "NEUTRAL",
+      "coverage": "Keşfedildi - şu anda dizine eklenmiş değil",
+      "googleCanonical": "",
+      "lastCrawlTime": ""
+    },
     "/2026/11/afra-ad-intikamd-karaoke_7.html": {
       "status": "no",
       "verdict": "NEUTRAL",
@@ -41,7 +55,7 @@
     "/2026/11/serkan-nisanc-unutacagm-karaoke_4.html": {
       "status": "no",
       "verdict": "NEUTRAL",
-      "coverage": "URL Google tarafından bilinmiyor",
+      "coverage": "Keşfedildi - şu anda dizine eklenmiş değil",
       "googleCanonical": "",
       "lastCrawlTime": ""
     },
@@ -69,7 +83,7 @@
     "/2026/11/karm6-serdar-ortac-ta-burama-karaoke_7.html": {
       "status": "no",
       "verdict": "NEUTRAL",
-      "coverage": "URL Google tarafından bilinmiyor",
+      "coverage": "Keşfedildi - şu anda dizine eklenmiş değil",
       "googleCanonical": "",
       "lastCrawlTime": ""
     },
@@ -548,20 +562,6 @@
       "coverage": "Gönderildi ve dizine eklendi",
       "googleCanonical": "https://karaokemuzik.blogspot.com/2026/11/turk-okcular-guney-koreden-dort.html",
       "lastCrawlTime": "2026-11-09T20:43:50Z"
-    },
-    "/2026/11/tarkan-cop31-icin-uyan-sarksnn.html": {
-      "status": "yes",
-      "verdict": "PASS",
-      "coverage": "Gönderildi ve dizine eklendi",
-      "googleCanonical": "https://karaokemuzik.blogspot.com/2026/11/tarkan-cop31-icin-uyan-sarksnn.html",
-      "lastCrawlTime": "2026-11-09T20:25:08Z"
-    },
-    "/2026/11/istanbul-bahcelievlerde-insaat-kazsnda.html": {
-      "status": "yes",
-      "verdict": "PASS",
-      "coverage": "Gönderildi ve dizine eklendi",
-      "googleCanonical": "https://karaokemuzik.blogspot.com/2026/11/istanbul-bahcelievlerde-insaat-kazsnda.html",
-      "lastCrawlTime": "2026-11-09T20:19:44Z"
     }
   }
 }
