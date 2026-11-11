@@ -1,12 +1,40 @@
 {
   "site": "https://karaokemuzik.blogspot.com/",
-  "updatedAt": "2026-11-11T10:24:16Z",
+  "updatedAt": "2026-11-11T14:31:53Z",
   "checkedCount": 80,
   "items": {
-    "/2026/11/ajda-pekkan-bambaska-biri-karaoke_4.html": {
+    "/2026/11/serkan-nisanc-eller-uzer-karaoke_4.html": {
       "status": "no",
       "verdict": "NEUTRAL",
       "coverage": "URL Google tarafından bilinmiyor",
+      "googleCanonical": "",
+      "lastCrawlTime": ""
+    },
+    "/2026/11/poizi-uyuyamadn-di-mi-karaoke.html": {
+      "status": "no",
+      "verdict": "NEUTRAL",
+      "coverage": "Keşfedildi - şu anda dizine eklenmiş değil",
+      "googleCanonical": "",
+      "lastCrawlTime": ""
+    },
+    "/2026/11/muslum-gurses-seni-yazdm-kalbime-karaoke_4.html": {
+      "status": "no",
+      "verdict": "NEUTRAL",
+      "coverage": "URL Google tarafından bilinmiyor",
+      "googleCanonical": "",
+      "lastCrawlTime": ""
+    },
+    "/2026/11/oguzhan-koc-yuzuk-karaoke_0.html": {
+      "status": "no",
+      "verdict": "NEUTRAL",
+      "coverage": "Keşfedildi - şu anda dizine eklenmiş değil",
+      "googleCanonical": "",
+      "lastCrawlTime": ""
+    },
+    "/2026/11/ajda-pekkan-bambaska-biri-karaoke_4.html": {
+      "status": "no",
+      "verdict": "NEUTRAL",
+      "coverage": "Keşfedildi - şu anda dizine eklenmiş değil",
       "googleCanonical": "",
       "lastCrawlTime": ""
     },
@@ -27,9 +55,9 @@
     "/2026/11/mustafa-sandal-gidenlerden-karaoke_0.html": {
       "status": "no",
       "verdict": "NEUTRAL",
-      "coverage": "Keşfedildi - şu anda dizine eklenmiş değil",
-      "googleCanonical": "",
-      "lastCrawlTime": ""
+      "coverage": "Tarandı - şu anda dizine eklenmiş değil",
+      "googleCanonical": "https://karaokemuzik.blogspot.com/2026/11/mustafa-sandal-gidenlerden-karaoke_0.html",
+      "lastCrawlTime": "2026-11-11T10:51:37Z"
     },
     "/2026/11/karma-keske-benim-olsa-karaoke_6.html": {
       "status": "no",
@@ -41,7 +69,7 @@
     "/2026/11/seda-sayan-tekir-ykamazlar-beni-karaoke_8.html": {
       "status": "no",
       "verdict": "NEUTRAL",
-      "coverage": "Keşfedildi - şu anda dizine eklenmiş değil",
+      "coverage": "URL Google tarafından bilinmiyor",
       "googleCanonical": "",
       "lastCrawlTime": ""
     },
@@ -55,7 +83,7 @@
     "/2026/11/serkan-nisanc-unutacagm-karaoke_4.html": {
       "status": "no",
       "verdict": "NEUTRAL",
-      "coverage": "Keşfedildi - şu anda dizine eklenmiş değil",
+      "coverage": "URL Google tarafından bilinmiyor",
       "googleCanonical": "",
       "lastCrawlTime": ""
     },
@@ -78,12 +106,12 @@
       "verdict": "PASS",
       "coverage": "Gönderildi ve dizine eklendi",
       "googleCanonical": "https://karaokemuzik.blogspot.com/2026/11/model-olurum-daha-iyi-karaoke_3.html",
-      "lastCrawlTime": "2026-11-11T02:50:19Z"
+      "lastCrawlTime": "2026-11-11T10:34:59Z"
     },
     "/2026/11/karm6-serdar-ortac-ta-burama-karaoke_7.html": {
       "status": "no",
       "verdict": "NEUTRAL",
-      "coverage": "Keşfedildi - şu anda dizine eklenmiş değil",
+      "coverage": "URL Google tarafından bilinmiyor",
       "googleCanonical": "",
       "lastCrawlTime": ""
     },
@@ -104,7 +132,7 @@
     "/2026/11/sibel-can-kanasin-karaoke.html": {
       "status": "no",
       "verdict": "NEUTRAL",
-      "coverage": "URL Google tarafından bilinmiyor",
+      "coverage": "Keşfedildi - şu anda dizine eklenmiş değil",
       "googleCanonical": "",
       "lastCrawlTime": ""
     },
@@ -534,34 +562,6 @@
       "coverage": "Gönderildi ve dizine eklendi",
       "googleCanonical": "https://karaokemuzik.blogspot.com/2026/11/manchester-city-leipzigi-3-2-yendi.html",
       "lastCrawlTime": "2026-11-09T20:58:30Z"
-    },
-    "/2026/11/como-lensi-9-1-yendi-sampiyonlar.html": {
-      "status": "yes",
-      "verdict": "PASS",
-      "coverage": "Gönderildi ve dizine eklendi",
-      "googleCanonical": "https://karaokemuzik.blogspot.com/2026/11/como-lensi-9-1-yendi-sampiyonlar.html",
-      "lastCrawlTime": "2026-11-09T20:33:38Z"
-    },
-    "/2026/11/afyonkarahisar-dinarda-41-buyuklugunde.html": {
-      "status": "yes",
-      "verdict": "PASS",
-      "coverage": "Gönderildi ve dizine eklendi",
-      "googleCanonical": "https://karaokemuzik.blogspot.com/2026/11/afyonkarahisar-dinarda-41-buyuklugunde.html",
-      "lastCrawlTime": "2026-11-09T21:09:34Z"
-    },
-    "/2026/11/kastamonu-zonguldak-ve-tekirdagda.html": {
-      "status": "yes",
-      "verdict": "PASS",
-      "coverage": "Gönderildi ve dizine eklendi",
-      "googleCanonical": "https://karaokemuzik.blogspot.com/2026/11/kastamonu-zonguldak-ve-tekirdagda.html",
-      "lastCrawlTime": "2026-11-09T22:24:33Z"
-    },
-    "/2026/11/turk-okcular-guney-koreden-dort.html": {
-      "status": "yes",
-      "verdict": "PASS",
-      "coverage": "Gönderildi ve dizine eklendi",
-      "googleCanonical": "https://karaokemuzik.blogspot.com/2026/11/turk-okcular-guney-koreden-dort.html",
-      "lastCrawlTime": "2026-11-09T20:43:50Z"
     }
   }
 }
