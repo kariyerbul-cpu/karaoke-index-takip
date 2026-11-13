@@ -1,8 +1,36 @@
 {
   "site": "https://karaokemuzik.blogspot.com/",
-  "updatedAt": "2026-11-13T03:21:49Z",
+  "updatedAt": "2026-11-13T08:25:02Z",
   "checkedCount": 80,
   "items": {
+    "/2026/11/eypio-yeralt-karaoke_4.html": {
+      "status": "no",
+      "verdict": "NEUTRAL",
+      "coverage": "Keşfedildi - şu anda dizine eklenmiş değil",
+      "googleCanonical": "",
+      "lastCrawlTime": ""
+    },
+    "/2026/11/derya-ulug-yabani-karaoke_5.html": {
+      "status": "no",
+      "verdict": "NEUTRAL",
+      "coverage": "Keşfedildi - şu anda dizine eklenmiş değil",
+      "googleCanonical": "",
+      "lastCrawlTime": ""
+    },
+    "/2026/11/m-lisa-ellerim-bos-karaoke_2.html": {
+      "status": "no",
+      "verdict": "NEUTRAL",
+      "coverage": "Keşfedildi - şu anda dizine eklenmiş değil",
+      "googleCanonical": "",
+      "lastCrawlTime": ""
+    },
+    "/2026/11/rengin-aldatldk-karaoke_0.html": {
+      "status": "no",
+      "verdict": "NEUTRAL",
+      "coverage": "Keşfedildi - şu anda dizine eklenmiş değil",
+      "googleCanonical": "",
+      "lastCrawlTime": ""
+    },
     "/2026/11/kamuran-akkor-ask-eski-bir-yalan-karaoke_3.html": {
       "status": "no",
       "verdict": "NEUTRAL",
@@ -55,14 +83,14 @@
     "/2026/11/eypio-sana-ragmen-karaoke_8.html": {
       "status": "no",
       "verdict": "NEUTRAL",
-      "coverage": "Keşfedildi - şu anda dizine eklenmiş değil",
+      "coverage": "URL Google tarafından bilinmiyor",
       "googleCanonical": "",
       "lastCrawlTime": ""
     },
     "/2026/11/kokvl-nalaka-karaoke_6.html": {
       "status": "no",
       "verdict": "NEUTRAL",
-      "coverage": "Keşfedildi - şu anda dizine eklenmiş değil",
+      "coverage": "URL Google tarafından bilinmiyor",
       "googleCanonical": "",
       "lastCrawlTime": ""
     },
@@ -76,7 +104,7 @@
     "/2026/11/serkan-nisanc-eller-uzer-karaoke_4.html": {
       "status": "no",
       "verdict": "NEUTRAL",
-      "coverage": "URL Google tarafından bilinmiyor",
+      "coverage": "Keşfedildi - şu anda dizine eklenmiş değil",
       "googleCanonical": "",
       "lastCrawlTime": ""
     },
@@ -90,7 +118,7 @@
     "/2026/11/muslum-gurses-seni-yazdm-kalbime-karaoke_4.html": {
       "status": "no",
       "verdict": "NEUTRAL",
-      "coverage": "Keşfedildi - şu anda dizine eklenmiş değil",
+      "coverage": "URL Google tarafından bilinmiyor",
       "googleCanonical": "",
       "lastCrawlTime": ""
     },
@@ -104,14 +132,14 @@
     "/2026/11/ajda-pekkan-bambaska-biri-karaoke_4.html": {
       "status": "no",
       "verdict": "NEUTRAL",
-      "coverage": "Keşfedildi - şu anda dizine eklenmiş değil",
+      "coverage": "URL Google tarafından bilinmiyor",
       "googleCanonical": "",
       "lastCrawlTime": ""
     },
     "/2026/11/sezen-aksu-biliyorsun-karaoke_4.html": {
       "status": "no",
       "verdict": "NEUTRAL",
-      "coverage": "URL Google tarafından bilinmiyor",
+      "coverage": "Keşfedildi - şu anda dizine eklenmiş değil",
       "googleCanonical": "",
       "lastCrawlTime": ""
     },
@@ -181,7 +209,7 @@
     "/2026/11/karm6-serdar-ortac-ta-burama-karaoke_7.html": {
       "status": "no",
       "verdict": "NEUTRAL",
-      "coverage": "Keşfedildi - şu anda dizine eklenmiş değil",
+      "coverage": "URL Google tarafından bilinmiyor",
       "googleCanonical": "",
       "lastCrawlTime": ""
     },
@@ -195,7 +223,7 @@
     "/2026/11/tuana-bu-dunya-yklsa-uzulmem-karaoke_9.html": {
       "status": "no",
       "verdict": "NEUTRAL",
-      "coverage": "Keşfedildi - şu anda dizine eklenmiş değil",
+      "coverage": "URL Google tarafından bilinmiyor",
       "googleCanonical": "",
       "lastCrawlTime": ""
     },
@@ -391,7 +419,7 @@
     "/2026/11/sevdan-bir-ates-dizisinde-leyladan.html": {
       "status": "no",
       "verdict": "NEUTRAL",
-      "coverage": "Keşfedildi - şu anda dizine eklenmiş değil",
+      "coverage": "URL Google tarafından bilinmiyor",
       "googleCanonical": "",
       "lastCrawlTime": ""
     },
@@ -534,34 +562,6 @@
       "coverage": "Gönderildi ve dizine eklendi",
       "googleCanonical": "https://karaokemuzik.blogspot.com/2026/11/galatasaray-daikin-manisada-3-0-kazand.html",
       "lastCrawlTime": "2026-11-09T20:19:06Z"
-    },
-    "/2026/11/kasm-ay-yasl-ve-engelli-aylklar.html": {
-      "status": "yes",
-      "verdict": "PASS",
-      "coverage": "Gönderildi ve dizine eklendi",
-      "googleCanonical": "https://karaokemuzik.blogspot.com/2026/11/kasm-ay-yasl-ve-engelli-aylklar.html",
-      "lastCrawlTime": "2026-11-09T20:17:11Z"
-    },
-    "/2026/11/altn-portakalda-tas-ve-tuy-filmine-alt.html": {
-      "status": "yes",
-      "verdict": "PASS",
-      "coverage": "Gönderildi ve dizine eklendi",
-      "googleCanonical": "https://karaokemuzik.blogspot.com/2026/11/altn-portakalda-tas-ve-tuy-filmine-alt.html",
-      "lastCrawlTime": "2026-11-09T22:18:47Z"
-    },
-    "/2026/11/spor-bakanlar-konferans-monakoda-yapld.html": {
-      "status": "yes",
-      "verdict": "PASS",
-      "coverage": "Gönderildi ve dizine eklendi",
-      "googleCanonical": "https://karaokemuzik.blogspot.com/2026/11/spor-bakanlar-konferans-monakoda-yapld.html",
-      "lastCrawlTime": "2026-11-09T20:46:08Z"
-    },
-    "/2026/11/gorme-engelliler-halter-sampiyonasnda.html": {
-      "status": "yes",
-      "verdict": "PASS",
-      "coverage": "Gönderildi ve dizine eklendi",
-      "googleCanonical": "https://karaokemuzik.blogspot.com/2026/11/gorme-engelliler-halter-sampiyonasnda.html",
-      "lastCrawlTime": "2026-11-09T21:00:53Z"
     }
   }
 }
